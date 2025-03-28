@@ -18,6 +18,12 @@ public class orgTest {
 	{
 		System.out.println("byee ");
 	}
+	@Test
+	public void hiiorgTest()
+	{
+		System.out.println("hello");
+	}
+	
 	
 	
 
