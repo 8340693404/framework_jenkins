@@ -23,6 +23,20 @@ public class orgTest {
 	{
 		System.out.println("hello");
 	}
+	@Test
+	public void addorgTest()
+	{
+		String BROWSER =System.getProperty("browser");
+		String URL =System.getProperty("url");
+		String USERNAME =System.getProperty("username");
+		String PASSWORD =System.getProperty("password");
+		System.out.println("browser");
+		System.out.println("url");
+		System.out.println("username");
+		System.out.println("password");
+	}
+	
+	
 	
 	
 	
