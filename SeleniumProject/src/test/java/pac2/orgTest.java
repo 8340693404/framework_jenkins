@@ -13,6 +13,12 @@ public class orgTest {
 	{
 		System.out.println("modify ");
 	}
+	@Test
+	public void byeorgTest()
+	{
+		System.out.println("byee ");
+	}
+	
 	
 
 }
